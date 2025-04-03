@@ -20,9 +20,7 @@ LE FICHIER DE CONFIGURATION FIREBASE ANDROID (GOOGLE-SERVICE-JSON)
 
 ![IMG_0307 2](https://github.com/user-attachments/assets/d03b0ddd-e2ba-48d7-a17a-57c401577efd)
 
-exemple react:
 
-![Capture d’écran 2024-12-26 à 23 47 07](https://github.com/user-attachments/assets/ad3721c5-f985-4cf2-a6e6-50003341e938)
 
 
 
