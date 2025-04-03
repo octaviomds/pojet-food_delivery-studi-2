@@ -24,7 +24,6 @@ LE FICHIER DE CONFIGURATION FIREBASE ANDROID (GOOGLE-SERVICE-JSON)
 
 
 
-![Uploading Nouvelle note.jpeg…]()
 
 
 
